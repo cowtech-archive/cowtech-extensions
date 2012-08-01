@@ -1,3 +1,7 @@
+# --- Warning ---
+
+## Development of this gem is stopped in favor of http://github.com/ShogunPanda/lazier ##
+
 # cowtech-extensions
 
 [![Build Status](https://secure.travis-ci.org/ShogunPanda/cowtech-extensions.png?branch=master)](http://travis-ci.org/ShogunPanda/cowtech-extensions)
@@ -6,10 +10,6 @@
 Several Ruby object enhancements.
 
 http://github.com/ShogunPanda/cowtech-extensions
-
-# Warning
-
-# The development of this gem is stopped in favor of http://github.com/ShogunPanda/lazier.
 
 ## Usage
 
